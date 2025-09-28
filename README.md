@@ -36,6 +36,8 @@
 7.Конец
 
 ### Блок-схема
+<img width="241" height="512" alt="бх попытка" src="https://github.com/user-attachments/assets/aa532a28-0de8-451d-9558-b09558de6afa" />
+
 
 ## 2. Реализация программы
 
