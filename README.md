@@ -36,7 +36,7 @@
 7.Конец
 
 ### Блок-схема
-<img width="421" height="894" alt="Снимок экрана 2025-09-28 162752" src="https://github.com/user-attachments/assets/a2905de1-dde4-40d2-93aa-a671d7629e8f" />
+<img width="267" height="575" alt="Снимок экрана 2025-09-28 163333" src="https://github.com/user-attachments/assets/eae2240b-f461-4dc5-8a40-4abd338dbc00" />
 
 
 
