@@ -43,6 +43,7 @@
 #include <locale.h>
 int main()
 {
+
     int L1 = 300, L2 = 200, V1 = 20, V2 = 30;
     setlocale(LC_ALL, "RUS");
     int total_length = L1 + L2;
