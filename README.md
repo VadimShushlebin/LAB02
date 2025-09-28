@@ -54,9 +54,11 @@ int main()
     printf("Второй поезд имеет длину: %d м\n", L2);
     printf("Скорость первого поезда: %d м/с\n", V1);
     printf("Скорость второго поезда: %d м/с\n", V2);
+
     printf("РАСЧЕТ:\n");
     printf("Суммарная длина поездов: %d м + %d м = %d м\n", L1, L2, total_length);
     printf("Cкорость сближения: %d м/с + %d м/с = %d м/с\n", V1, V2, total_speed);
+
     printf("РЕЗУЛЬТАТ:\n");
     printf("Продолжительность прохождения поездов друг мимо друга:\n");
     printf("T = (L1 + L2) / (V1 + V2) = %d / %d = %d секунд\n", total_length, total_speed, time);
