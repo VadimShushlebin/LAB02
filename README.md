@@ -38,6 +38,8 @@
 ### Блок-схема
 <img width="267" height="575" alt="Снимок экрана 2025-09-28 163333" src="https://github.com/user-attachments/assets/eae2240b-f461-4dc5-8a40-4abd338dbc00" />
 
+https://github.com/VadimShushlebin/LAB02/blob/master/block-shema.png
+
 
 
 ## 2. Реализация программы
