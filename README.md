@@ -40,7 +40,9 @@
 ## 2. Реализация программы
 
 #include <stdio.h>
+
 #include <locale.h>
+
 int main()
 {
 
