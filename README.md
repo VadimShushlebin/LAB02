@@ -44,6 +44,7 @@
 #include <locale.h>
 
 int main()
+
 {
 
     int L1 = 300, L2 = 200, V1 = 20, V2 = 30;
@@ -67,7 +68,6 @@ int main()
     printf("T = (L1 + L2) / (V1 + V2) = %d / %d = %d секунд\n", total_length, total_speed, time);
     printf("T = %d секунд\n\n", time);
     return 0;
-
 
 }
 
