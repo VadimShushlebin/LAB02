@@ -36,9 +36,10 @@
 7.Конец
 
 ### Блок-схема
-<img width="267" height="575" alt="Снимок экрана 2025-09-28 163333" src="https://github.com/user-attachments/assets/eae2240b-f461-4dc5-8a40-4abd338dbc00" />
 
-https://github.com/VadimShushlebin/LAB02/blob/master/block-shema.png
+<img width="278" height="580" alt="block shema" src="https://github.com/user-attachments/assets/cf2d652d-1ab0-4b0f-bed2-2592276eb9c4" />
+
+https://github.com/VadimShushlebin/LAB02/blob/master/block%20shema.png
 
 
 
