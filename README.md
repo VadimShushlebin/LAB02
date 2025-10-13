@@ -37,7 +37,7 @@
 
 ### Блок-схема
 
-<img width="278" height="580" alt="block shema" src="https://github.com/user-attachments/assets/cf2d652d-1ab0-4b0f-bed2-2592276eb9c4" />
+<img width="358" height="792" alt="Снимок экрана 2025-10-13 125952" src="https://github.com/user-attachments/assets/63265f37-aae0-4502-81c2-31f203aca199" />
 
 https://github.com/VadimShushlebin/LAB02/blob/master/block%20shema.png
 
